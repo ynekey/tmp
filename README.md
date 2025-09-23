@@ -1,3 +1,3 @@
 hello hse!
 hello cpp!
-OMP 2026
+OMP 2025
